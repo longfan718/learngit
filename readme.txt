@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Add merge.
 Add fetch.
 Add new.
+Add test.
